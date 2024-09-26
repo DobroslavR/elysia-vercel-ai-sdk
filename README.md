@@ -65,16 +65,10 @@ Example request body:
 }
 ```
 
-## Development
-
-This project uses Bun for fast JavaScript/TypeScript execution. Here are some useful commands:
-
-- `bun dev`: Start the development server
-
 ## Dependencies
 
 - `@ai-sdk/google`: SDK for interacting with Google's AI models
-- `ai`: Utility functions for AI operations
+- `ai`: Utility functions from Vercel for AI operations
 - `elysia`: Fast and flexible web framework for Bun
 
 ## Contributing
